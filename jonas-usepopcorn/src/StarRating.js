@@ -35,7 +35,7 @@ export default function StarRating({
 
   function handleRating(rating) {
     setRating(rating);
-    onSetRating(rating);
+    // onSetRating(rating);
   }
 
   const textStyle = {
@@ -71,8 +71,8 @@ export default function StarRating({
 
 function Star({ onRate, full, onHoverIn, onHoverOut, color, size }) {
   const starStyle = {
-    width: "48px",
-    height: "48px",
+    width: size,
+    height: size,
     display: "block",
     cursor: "pointer",
   };
