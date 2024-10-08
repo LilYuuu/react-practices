@@ -35,6 +35,138 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Puebla Tornesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-08T22:21:15.121Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11234508693355",
+        "lng": "-0.015621185302734377"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Puebla Tornesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-08T22:25:36.908Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11234508693355",
+        "lng": "-0.015621185302734377"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Medroussa",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-10-08T22:25:59.955Z",
+      "notes": "",
+      "position": {
+        "lat": "35.119908570996834",
+        "lng": "1.1425781250000002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Saint-Vallier-de-Thiey",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-08T22:29:26.635Z",
+      "notes": "",
+      "position": {
+        "lat": "43.70759350405296",
+        "lng": "6.8115234375"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Saint-Vallier-de-Thiey",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-08T22:29:26.635Z",
+      "notes": "",
+      "position": {
+        "lat": "43.70759350405296",
+        "lng": "6.8115234375"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Saint-Sebastien",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-08T22:29:38.166Z",
+      "notes": "",
+      "position": {
+        "lat": "46.40756396630067",
+        "lng": "1.5380859375000002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Wendy",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-10-08T22:29:57.361Z",
+      "notes": "",
+      "position": {
+        "lat": "52.10650519075632",
+        "lng": "-0.087890625"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-10-08T22:38:17.430Z",
+      "notes": "",
+      "position": {
+        "lat": "52.53627304145948",
+        "lng": "5.449218750000001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Pribyslav",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-10-08T22:38:39.415Z",
+      "notes": "",
+      "position": {
+        "lat": "49.5822260446217",
+        "lng": "15.732421875000002"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Zelazkow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-10-08T22:40:56.296Z",
+      "notes": "",
+      "position": {
+        "lat": "51.781435604431195",
+        "lng": "18.149414062500004"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Vejle",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-10-08T22:41:42.759Z",
+      "notes": "",
+      "position": {
+        "lat": "55.62799595426723",
+        "lng": "9.404296875000002"
+      },
+      "id": 98443208
     }
   ]
 }
