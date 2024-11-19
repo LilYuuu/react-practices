@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -109,14 +97,14 @@
       "id": 98443205
     },
     {
-      "cityName": "Pribyslav",
-      "country": "Czechia",
-      "emoji": "🇨🇿",
-      "date": "2024-10-08T22:38:39.415Z",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-19T03:58:20.937Z",
       "notes": "",
       "position": {
-        "lat": "49.5822260446217",
-        "lng": "15.732421875000002"
+        "lat": "39.97435761238716",
+        "lng": "-0.008583068847656252"
       },
       "id": 98443206
     }
